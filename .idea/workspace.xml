@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2153cd01-db0b-4157-a64f-79fd7aa1b582" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/slidingwindow/AverageSubarrayOfSizeK.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slidingwindow/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slidingwindow/AverageSubarrayOfSizeK.py" beforeDir="false" afterPath="$PROJECT_DIR$/slidingwindow/AverageSubarrayOfSizeK.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
