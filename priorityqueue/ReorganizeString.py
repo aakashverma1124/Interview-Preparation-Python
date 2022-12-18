@@ -1,6 +1,6 @@
 from heapq import *
 
-class FrequencySort:
+class ReorganizeString:
 
 	@staticmethod
 	def sort_characters(s):
@@ -82,7 +82,7 @@ class FrequencySort:
 if __name__ == '__main__':
 	s = "aaabcdddaa";
 	# both will give same answers
-	ans = FrequencySort.sort_characters(s)
-	ans2 = FrequencySort.sort_characters2(s)
+	ans = ReorganizeString.sort_characters(s)
+	ans2 = ReorganizeString.sort_characters2(s)
 	print(ans)
 	print(ans2)
