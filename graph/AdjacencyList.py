@@ -7,6 +7,7 @@ class AdjacencyList:
             graph[edge[0]].append(edge[1])
             graph[edge[1]].append(edge[0])
         return graph
+        
     @staticmethod
     def print_graph(v, edges):
         graph = AdjacencyList.build_graph(v, edges)
